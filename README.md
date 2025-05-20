@@ -31,8 +31,8 @@ print(df["loan_status"].value_counts())
 - 0 (Healthy loans): Majority class
 
 - 1 (High-risk loans): Minority class
-
-🧠 Machine Learning Process
+```
+### 🧠 Machine Learning Process
 1. Data Preprocessing
 
   - Features (X) and labels (y) were created by separating loan_status from the rest of the dataset.
